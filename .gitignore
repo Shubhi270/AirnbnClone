@@ -1,0 +1,9 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore npm's lock files
+package-lock.json
+yarn.lock
+
+# Ignore package.json (if it's not meant to be versioned)
+package.json
