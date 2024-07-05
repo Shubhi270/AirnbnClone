@@ -16,6 +16,9 @@ This clone project serves as a practical exercise in building scalable web appli
 ---
 # login page 
 ![Screenshot 2024-07-05 221539](https://github.com/Shubhi270/AirnbnClone/assets/83357666/e31ec3b9-9fcf-4dd9-9db4-79b2b8f80fed)
+# register now
+![Screenshot 2024-07-05 223859](https://github.com/Shubhi270/AirnbnClone/assets/83357666/d8939677-f10d-4148-b62c-c60e7f58bea3)
+
 # home page
 ![Screenshot 2024-07-05 221629](https://github.com/Shubhi270/AirnbnClone/assets/83357666/d5942b15-b59b-4728-9895-60b51db73b50)
 ![Screenshot 2024-07-05 221729](https://github.com/Shubhi270/AirnbnClone/assets/83357666/1905379a-e915-41e3-b706-f406d932293c)
