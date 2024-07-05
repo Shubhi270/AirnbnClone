@@ -29,7 +29,7 @@ This clone project serves as a practical exercise in building scalable web appli
 # booking
 ![Screenshot 2024-07-05 222505](https://github.com/Shubhi270/AirnbnClone/assets/83357666/2c651b7a-7f69-473f-8341-2d17ee7e2ce7)
 
-# listined booked places
+# listing booked places
 ![Screenshot 2024-07-05 222520](https://github.com/Shubhi270/AirnbnClone/assets/83357666/a343b82b-5473-4777-83cb-743b4e0ab758)
 
 # additional functionalities
