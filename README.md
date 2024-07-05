@@ -34,5 +34,8 @@ This clone project serves as a practical exercise in building scalable web appli
 
 # additional functionalities
 ![Screenshot 2024-07-05 221859](https://github.com/Shubhi270/AirnbnClone/assets/83357666/d89def2b-49ac-4251-b8a4-630e98ea19e0)
-![Screenshot 2024-07-05 221938](https://github.com/Shubhi270/AirnbnClone/assets/83357666/0938d02b-6b37-4752-a7d3-2f18a19bfc37)
+![Screenshot 2024-07-05 223321](https://github.com/Shubhi270/AirnbnClone/assets/83357666/2f0e6358-ec98-4a66-ae16-a41cab882584)
+![Screenshot 2024-07-05 223336](https://github.com/Shubhi270/AirnbnClone/assets/83357666/1f569576-d818-46b1-b5ab-d1da49a47b87)
+![Screenshot 2024-07-05 223406](https://github.com/Shubhi270/AirnbnClone/assets/83357666/3cf24afc-4e32-406c-be8d-d99f9a870cad)
+
 
